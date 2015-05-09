@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Wither-Tech",
+  "name": "Wither-Tech",
+  "description": "Harness the power of the whiter",
+  "version": "${mod_version}",
+  "mcversion": "${minecraft_version}",
+  "url": "N/A",
+  "updateUrl": "",
+  "authorList": [
+    "Person4494",
+  ],
+  "credits": "Person4494",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
