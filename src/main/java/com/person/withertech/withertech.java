@@ -6,7 +6,11 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = "Wither-Tech", name = "Wither Tech", version = "1.7.10-1.0")
-public class withertech {
+public class withertech
+{
+    @Mod.Instance("Wither-Tech")
+    public static withertech instacne;
+
     @Mod.EventHandler
     public void pre(FMLPreInitializationEvent event)
     {
