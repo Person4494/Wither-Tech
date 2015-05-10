@@ -1,15 +1,13 @@
 [
 {
-  "modid": "Wither-Tech",
-  "name": "Wither-Tech",
+  "modid": "WitherTech",
+  "name": "Wither Tech",
   "description": "Harness the power of the whiter",
-  "version": "${mod_version}",
-  "mcversion": "${minecraft_version}",
-  "url": "N/A",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
   "updateUrl": "",
-  "authorList": [
-    "Person4494",
-  ],
+  "authorList":["Person4494"],
   "credits": "Person4494",
   "logoFile": "",
   "screenshots": [
